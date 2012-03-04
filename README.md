@@ -1,1 +1,1 @@
-![Example Output](example.jpg "Example Output")
+![Example Output](example.png "Example Output")
