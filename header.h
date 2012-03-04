@@ -24,6 +24,7 @@ typedef struct
 /* main.c */
 float interpolate (float **data, float r, float theta);
 Uint32 color (snapshot *ss, float r, float theta);
+Uint32 color2 (snapshot *ss, float r, float theta);
 
 /* snapshot.c */
 void load_snapshot_ASCII (char *fname, snapshot *ss);
