@@ -8,6 +8,7 @@
 #define max(a,b) (((a)>(b))?(a):(b))
 #define min(a,b) (((a)<(b))?(a):(b))
 
+/* Properties of all snapshots to be read in */
 int dimr, dimt;
 float rmin, rmax;
 
